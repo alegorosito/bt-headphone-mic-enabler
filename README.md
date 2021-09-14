@@ -1,3 +1,4 @@
+
 # Bash commands to enable bluetooth mic from headsets in ubuntu 18.04/20.04/21.04
 
 Credits to the original author of the post [*How to enable Bluetooth headset microphone support in Ubuntu 20.04*](https://kumarvinay.com/how-to-enable-bluetooth-headset-microphone-support-in-ubuntu-20-04/)
